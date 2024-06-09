@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="asset/show1.png" width="720px"/>  
+<img src="doc/show1.png" width="720px"/>  
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ xxx
 
 ## Papers for Autonomous Driving Datasets in Unstructured Environments 
 
-![VideoGen](./asset/datasets.png "Autonomous Driving Datasets in Unstructured Environments")
+![VideoGen](./doc/datasets.png "Autonomous Driving Datasets in Unstructured Environments")
 
 | Year |                           Datasets                           |                            Title                             |                Sensors                 |                            Task                             |                             Link                             |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------------: |
