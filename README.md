@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-(Source:<a href="https://xxx">ORFD</a>)
+(Source:<a href="https://openai.com/sora">ORFD</a>)
 </p>
 
 
@@ -53,7 +53,7 @@ xxx
 
 ## Papers for Perception in Unstructured Environments 
 
-![Drive](./asset/Drive.png "autonomous driving world models")
+![Drive](./doc/Drive.png "autonomous driving world models")
 
 | Year |                        **Published**                         |                   Author                    |                            Title                             |                     Task                     | Github |
 | ---- | :----------------------------------------------------------: | :-----------------------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :----: |
@@ -64,18 +64,18 @@ xxx
 | 2019 |                              IV                              |                     PKU                     | [Off-Road Drivable Area Extraction Using 3D LiDAR Data](https://ieeexplore.ieee.org/abstract/document/8814143/) |          Traversability Estimation           |   -    |
 | 2020 |                              IV                              |                     PKU                     | [Off-road Autonomous Vehicles Traversability Analysis and Trajectory Planning Based on Deep Inverse Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9304721/) |          Traversability Estimation           |   -    |
 |      |                                                              |                                             |                                                              |                                              |        |
-| 2021 |              Measurement Science and Technology              |              Nankai University              | [Point cloud segmentation based on Euclidean clustering and multi-plane extraction in rugged](https://iopscience.iop.org/article/10.1088/1361-6501/abead3/meta) |           Point cloud segmentation           |   -    |
+| 2021 |              Measurement Science and Technology              |              Nankai University              | [Point cloud segmentation based on Euclidean clustering and multi-plane extraction in rugged field](https://iopscience.iop.org/article/10.1088/1361-6501/abead3/meta) |           Point cloud segmentation           |   -    |
 | 2021 |                             IROS                             |                     PKU                     | [Fine-Grained Off-Road Semantic Segmentation and Mapping via Contrastive Learning](https://arxiv.org/pdf/2103.03651) |          Traversability Estimation           |   -    |
-| 2022 |                             IRC                              |        University of Technology Graz        | field[Generating Robot-Dependent Cost Maps for Off-Road Environments Using Locomotion](https://ieeexplore.ieee.org/abstract/document/10023567/) |                  Cost Maps                   |   -    |
-| 2023 |                             JFR                              |                    NUDT                     | [Traversability Analysis for Autonomous Driving in Complex Environment: A LiDAR-based Terrain](https://arxiv.org/pdf/2307.02060) |          Traversability Estimation           |   -    |
-| 2023 |                             TITS                             |                     PKU                     | Experiments and Earth Observation Data*[An Active and Contrastive Learning Framework for Fine-Grained Off-Road Semantic Segmentation Modeling Approach](https://arxiv.org/pdf/2202.09002) |            Semantic Segmentation             |   -    |
+| 2022 |                             IRC                              |        University of Technology Graz        | [Generating Robot-Dependent Cost Maps for Off-Road Environments Using Locomotion](https://ieeexplore.ieee.org/abstract/document/10023567/) |                  Cost Maps                   |   -    |
+| 2023 |                             JFR                              |                    NUDT                     | [Traversability Analysis for Autonomous Driving in Complex Environment: A LiDAR-based Terrain Experiments and Earth Observation Data](https://arxiv.org/pdf/2307.02060) |          Traversability Estimation           |   -    |
+| 2023 |                             TITS                             |                     PKU                     | [An Active and Contrastive Learning Framework for Fine-Grained Off-Road Semantic Segmentation Modeling Approach](https://arxiv.org/pdf/2202.09002) |            Semantic Segmentation             |   -    |
 | 2023 |                             CCC                              |                     BIT                     | [LiDAR-based Online Cost Map Construction in Complex Off-road Environments](https://ieeexplore.ieee.org/abstract/document/10240841/) |            Cost Map Construction             |   -    |
 | 2023 |                             RAL                              |             Clemson University              | [Data-Driven Convex Approach to Off-road Navigation via Linear Transfer Operators]() |          Traversability Estimation           |   -    |
 | 2023 |                            Arxiv                             |                    NUDT                     | [Contrastive Label Disambiguation for Self-Supervised Terrain Traversability Learning in Off-Road Environments](https://arxiv.org/pdf/2307.02871) |                                              |        |
 | 2023 |                             RAL                              | Agency for Defense Development (ADD), Korea | [ScaTE: A Scalable Framework for Self-Supervised Traversability Estimation in Unstructured Environments](https://arxiv.org/pdf/2209.06522) |  Self-Supervised Traversability Estimation   |   -    |
 | 2023 |                             RAL                              |                 ADD, Korea                  | [Learning Off-Road Terrain Traversability with Self-Supervisions Only](https://arxiv.org/pdf/2305.18896) |  Self-Supervised Traversability Estimation   |   -    |
 | 2023 |                         IEEE Access                          |                 ADD, Korea                  | [Self-Supervised 3D Traversability Estimation With Proxy Bank Guidance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10132443) | Self-Supervised 3D Traversability Estimation |   -    |
-| 2023 |                            Arxiv                             |                 ADD, Korea                  | METAVerse: Meta-Learning Traversability Cost Map for Off-Road Navigation |           Traversability Cost Map            |   -    |
+| 2023 |                            Arxiv                             |                 ADD, Korea                  | [METAVerse: Meta-Learning Traversability Cost Map for Off-Road Navigation](https://arxiv.org/pdf/2307.13991) |           Traversability Cost Map            |   -    |
 | 2023 |                         RSS workshop                         |                 ADD, Korea                  | [Safe Navigation in Unstructured Environments by Minimizing Uncertainty in Control and Perception](https://arxiv.org/pdf/2306.14601) | Terrain Map Estimation,Uncertainty learning  |   -    |
 | 2023 |                             ICRA                             |         Carnegie Mellon University          | [Learning Risk-Aware Costmaps via Inverse Reinforcement Learning for Off-Road Navigation](https://ieeexplore.ieee.org/abstract/document/10161268) |                   Costmaps                   |   -    |
 | 2023 |                World Electric Vehicle Journal                |            Southeast University             | [Off-Road Environment Semantic Segmentation for Autonomous Vehicles Based on Multi-Scale Feature Fusion]() |            Semantic Segmentation             |   -    |
@@ -83,7 +83,7 @@ xxx
 | 2023 |                            Arxiv                             |          University of Washington           | [V-STRONG: Visual Self-Supervised Traversability Learning for](https://arxiv.org/html/2312.16016v1) |          Traversability Estimation           |   -    |
 | 2024 |                        ICRA workshop                         |                 ADD, Korea                  | [Uncertainty-aware Semantic Mapping in Off-road Environments with Dempster-Shafer Theory of Evidence](https://arxiv.org/pdf/2405.06265) |      Uncertainty-aware Semantic Mapping      |   -    |
 | 2024 |                            Arxiv                             |                 ADD, Korea                  | [Evidential Semantic Mapping in Off-road Environments with Uncertainty-aware Bayesian Kernel Inference](https://arxiv.org/pdf/2403.14138) |               Semantic Mapping               |   -    |
-| 2024 |                            Arxiv                             |                 ADD, Korea                  |    UFO: Uncertainty-aware LiDAR-image Fusion for Off-road    |            Terrain Map Estimation            |   -    |
+| 2024 |                            Arxiv                             |                 ADD, Korea                  | [UFO: Uncertainty-aware LiDAR-image Fusion for Off-road](https://arxiv.org/pdf/2403.02642) |            Terrain Map Estimation            |   -    |
 | 2024 |                             RAL                              |     California Institute of Technology      | [Pixel to Elevation: Learning to Predict Elevation Maps at Long Range]() |                Elevation Maps                |   -    |
 | 2024 |                            Arxiv                             |     California Institute of Technology      | [RoadRunner - Learning Traversability Estimation for Autonomous Off-road Driving](https://arxiv.org/pdf/2402.19341) |          Traversability Estimation           |   -    |
 | 2024 |                     IEEE Sensors Journal                     |            Southeast University             | [Multisensor Fusion Network for Unstructured Scene Segmentation With Surface Normal Incorporated](https://ieeexplore.ieee.org/abstract/document/10458907/) |           Point cloud segmentation           |   -    |
@@ -92,77 +92,75 @@ xxx
 
 ## Papers for Planning in Unstructured Environments 
 
-![Agent](./asset/Agent.png "autonomous agents world models")
+![Agent](./doc/Agent.png "autonomous agents world models")
 
-|                Methods                |   Task   |                            Github                            |
-| :-----------------------------------: | :------: | :----------------------------------------------------------: |
-| [PlaNet](https://planetrl.github.io/) | Robotics | [![Star](https://img.shields.io/github/stars/google-research/planet.svg?style=social&label=Star)](https://github.com/google-research/planet) |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
+| Year | **Published** | Author | Title | Task | Github |
+| ---- | :-----------: | :----: | :---: | :--: | :----: |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
 
 ## Papers for SLAM in Unstructured Environments 
 
-![Agent](./asset/Agent.png "autonomous agents world models")
+![Agent](./doc/Agent.png "autonomous agents world models")
 
-|                Methods                |   Task   |                            Github                            |
-| :-----------------------------------: | :------: | :----------------------------------------------------------: |
-| [PlaNet](https://planetrl.github.io/) | Robotics | [![Star](https://img.shields.io/github/stars/google-research/planet.svg?style=social&label=Star)](https://github.com/google-research/planet) |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
-|                                       |          |                                                              |
+| Year | **Published** | Author | Title | Task | Github |
+| ---- | :-----------: | :----: | :---: | :--: | :----: |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
 
 ## Contact
 
