@@ -1,6 +1,6 @@
 
 
-# [A Comprehensive Survey on Autonomous Driving towards Unstructured Environments](https://arxiv.org/xxx) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/xxx) 
+# [A Comprehensive Survey on Autonomous Driving in Unstructured Environments](https://arxiv.org/xxx) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/xxx) 
 
 
 
@@ -15,7 +15,7 @@
 
 This is the official repository for the technical report: 
 
-**A Comprehensive Survey on Autonomous Driving towards Unstructured Environments**.
+**A Comprehensive Survey on Autonomous Driving in Unstructured Environments**.
 
 
 ## 📌 Introduction
@@ -168,7 +168,7 @@ If you find our survey is useful in your research or applications, please consid
 
 ```
 @article{xxx,
-  title={A Comprehensive Survey on Autonomous Driving towards Unstructured Environments},
+  title={A Comprehensive Survey on Autonomous Driving in Unstructured Environments},
   author={xxx}, 
   journal={arXiv preprint arXiv:xxx},
   year={2024}
