@@ -161,7 +161,7 @@ xxx
 
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
-|      |               |        |       |      |        |
+| 2021 |        JFR       |    NUDT    |    LiDAR‐based robust localization for field autonomous vehicles in off‐road environments    |    Mapping then Localization  |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
