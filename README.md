@@ -160,7 +160,7 @@ xxx
 ![Agent](./doc/Agent.png "autonomous agents world models")
 
 | Number | Year | **Published** | Author | Title | Task | Github |
-|  ----  | ---- | :-----------: | :----: | :---: | :--: | :----: |
+|  :--:  | ---- | :-----------: | :----: | :---: | :--: | :----: |
 | 1 | 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |    Mapping then Localization  |    -    |
 |  |      |               |        |       |      |        |
 |  |      |               |        |       |      |        |
