@@ -155,7 +155,7 @@ xxx
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 
-## Papers for Autonomous Driving SLAM in Unstructured Environments 
+## Papers for Autonomous Driving Mapping & Localization in Unstructured Environments 
 
 ![Agent](./doc/Agent.png "autonomous agents world models")
 
