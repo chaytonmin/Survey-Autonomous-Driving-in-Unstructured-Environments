@@ -172,6 +172,8 @@ xxx
 |      |               |        |       |      |        |
 
 ### (2) Localization within Priori HD-Map Review 
+| Year | **Published** | Author | Title | Task | Github |
+| ---- | :-----------: | :----: | :---: | :--: | :----: |
 | 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |  Localization  |    -    | 
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
@@ -181,6 +183,7 @@ xxx
 
 ### (3) Localization without Priori HD-Map Review 
 * Place Recognition
+
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |      |               |        |       |      |        |
@@ -189,7 +192,8 @@ xxx
 |      |               |        |       |      |        |
 
 
-* Localization with SD-Map 
+* Localization with SD-Map
+
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 | 2019 |        RA-L       |    MIT    |   [Maplite: Autonomous intersection navigation without a detailed prior map](https://ieeexplore.ieee.org/abstract/document/8936918/)    |   localization and navigation   |    -    | 
