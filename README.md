@@ -157,25 +157,42 @@ xxx
 
 ## Papers for Autonomous Driving Mapping & Localization in Unstructured Environments 
 
-### HD-Mapping & Localization within HD-Map Review
+### (1) HD-Mapping Review 
 
 ![Agent](./doc/Agent.png "autonomous agents world models")
 
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
-| 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |    Mapping then Localization  |    -    |
 | 2021 |        Remote Sensing       |    NUDT    |    [Towards a fully automated 3d reconstruction system based on lidar and gnss in challenging scenarios](https://www.mdpi.com/2072-4292/13/10/1981)    |   Mapping   |    -    |
+| 2022 |       RA-L        |    MIT    |    [Maplite 2.0: Online hd map inference using a prior sd map](https://ieeexplore.ieee.org/abstract/document/9807400/)   |   online HD-Mapping   |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 
-### Localization without HD-Map Review
+### (2) Localization within Priori HD-Map Review 
+| 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |  Localization  |    -    | 
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+
+
+### (3) Localization without Priori HD-Map Review 
+* Place Recognition
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+
+
+* Localization with SD-Map 
+| Year | **Published** | Author | Title | Task | Github |
+| ---- | :-----------: | :----: | :---: | :--: | :----: |
+| 2019 |        RA-L       |    MIT    |   [Maplite: Autonomous intersection navigation without a detailed prior map](https://ieeexplore.ieee.org/abstract/document/8936918/)    |   localization and navigation   |    -    | 
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
