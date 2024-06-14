@@ -197,7 +197,7 @@ xxx
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 | 2019 |        RA-L       |    MIT    |   [Maplite: Autonomous intersection navigation without a detailed prior map](https://ieeexplore.ieee.org/abstract/document/8936918/)    |   localization and navigation   |    -    | 
-|      |               |        |       |      |        |
+| 2022 |       TAES        |    HEU    |    [TOM-odometry: A generalized localization framework based on topological map and odometry](https://ieeexplore.ieee.org/abstract/document/9940585/)   |   Localization   |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
