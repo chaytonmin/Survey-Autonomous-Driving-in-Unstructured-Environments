@@ -182,6 +182,16 @@ xxx
 
 
 ### (3) Localization without Priori HD-Map Review 
+* Diverse Odometry 
+
+| Year | **Published** | Author | Title | Task | Github |
+| ---- | :-----------: | :----: | :---: | :--: | :----: |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+
+
 * Place Recognition
 
 | Year | **Published** | Author | Title | Task | Github |
