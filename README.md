@@ -195,7 +195,7 @@ xxx
 |   2018   |        JFR       |    CMU    |    [Laser–visual–inertial odometry and mapping with high robustness and low drift](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21809)   |   SLAM   |    -    |
 |   2019   |       Applied Sciences        |    NUDT    |    [IMU-aided high-frequency LiDAR odometry for autonomous driving](https://www.mdpi.com/2076-3417/9/7/1506)   |   Localization   |    -    |
 |   2020   |       Remote Sensing        |        |    [Localization in unstructured environments: Towards autonomous robots in forests with delaunay triangulation](https://www.mdpi.com/2072-4292/12/11/1870)   |   Localization   |     -   |
-|      |               |        |       |      |        |
+|   2022   |       RA-L        |    HKU    |    [Efficient and probabilistic adaptive voxel mapping for accurate online lidar odometry](https://ieeexplore.ieee.org/abstract/document/9813516/)   |   Localization   |     https://github.com/hku-mars/VoxelMap   |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
