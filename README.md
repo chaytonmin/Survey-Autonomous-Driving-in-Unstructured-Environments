@@ -163,6 +163,7 @@ xxx
 
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
+|   2020   |        Robotics       |    NUDT    |    [LIDAR scan matching in off-road environments](https://www.mdpi.com/2218-6581/9/2/35)   |   Mapping   |    -    |
 | 2021 |        Remote Sensing       |    NUDT    |    [Towards a fully automated 3d reconstruction system based on lidar and gnss in challenging scenarios](https://www.mdpi.com/2072-4292/13/10/1981)    |   Mapping   |    -    |
 | 2022 |       RA-L        |    MIT    |    [Maplite 2.0: Online hd map inference using a prior sd map](https://ieeexplore.ieee.org/abstract/document/9807400/)   |   online HD-Mapping   |    -    |
 |      |               |        |       |      |        |
@@ -183,12 +184,13 @@ xxx
 
 
 ### (3) Localization without Priori HD-Map Review 
-* Diverse Odometry 
+* Diverse Odometry / SLAM 
 
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
+|   2014   |        RSS |   CMU    |    [LOAM: Lidar odometry and mapping in real-time.](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)    |   SLAM    |   https://github.com/laboshinl/loam_velodyne   |
+|   2018   |       IROS        |        |   [Lego-loam: Lightweight and ground-optimized lidar odometry and mapping on variable terrain](https://ieeexplore.ieee.org/abstract/document/8594299/)    |   SLAM   |     https://github.com/RobustFieldAutonomyLab/LeGO-LOAM    |
+|   2019   |       Applied Sciences        |    NUDT    |    [IMU-aided high-frequency LiDAR odometry for autonomous driving](https://www.mdpi.com/2076-3417/9/7/1506)   |   Localization   |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 
