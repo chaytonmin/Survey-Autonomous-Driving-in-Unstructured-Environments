@@ -169,7 +169,7 @@ xxx
 | 2022 |       RA-L        |    MIT    |    [Maplite 2.0: Online hd map inference using a prior sd map](https://ieeexplore.ieee.org/abstract/document/9807400/)   |   online HD-Mapping   |    -    |
 |   2023   |        Drones       |        |    [A Safety-Assured Semantic Map for an Unstructured Terrain Environment towards Autonomous Engineering Vehicles](https://www.mdpi.com/2504-446X/7/9/550)   |   Semantic Mapping   |    -    |
 |   2024   |       JFR        |        |   [Three‐dimensionalized feature‐based LiDAR‐visual odometry for online mapping of unpaved road surfaces](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22334)    |   online Mapping   |    -    |
-|      |               |        |       |      |        |
+|   2024   |       arXiv        |    HKUST    |    [MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection](https://arxiv.org/abs/2406.02096)   |   Mapping   |    https://github.com/JokerJohn/MS-Mapping    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 
