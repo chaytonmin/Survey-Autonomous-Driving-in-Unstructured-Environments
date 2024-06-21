@@ -165,9 +165,10 @@ xxx
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2020   |        Robotics       |    NUDT    |    [LIDAR scan matching in off-road environments](https://www.mdpi.com/2218-6581/9/2/35)   |   Mapping   |    -    |
 | 2021 |        Remote Sensing       |    NUDT    |    [Towards a fully automated 3d reconstruction system based on lidar and gnss in challenging scenarios](https://www.mdpi.com/2072-4292/13/10/1981)    |   Mapping   |    -    |
+|   2021   |       IV        |        |    [Fully automatic large-scale point cloud mapping for low-speed self-driving vehicles in unstructured environments](https://ieeexplore.ieee.org/abstract/document/9575571/)   |   Mapping   |    -   |
 | 2022 |       RA-L        |    MIT    |    [Maplite 2.0: Online hd map inference using a prior sd map](https://ieeexplore.ieee.org/abstract/document/9807400/)   |   online HD-Mapping   |    -    |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
+|   2023   |        Drones       |        |    [A Safety-Assured Semantic Map for an Unstructured Terrain Environment towards Autonomous Engineering Vehicles](https://www.mdpi.com/2504-446X/7/9/550)   |   Semantic Mapping   |    -    |
+|   2024   |       JFR        |        |   [Three‐dimensionalized feature‐based LiDAR‐visual odometry for online mapping of unpaved road surfaces](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22334)    |   online Mapping   |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
@@ -177,7 +178,7 @@ xxx
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 | 2018 |        IROS       |        |    [Posemap: Lifelong, multi-environment 3d lidar localization](https://ieeexplore.ieee.org/abstract/document/8593854/)   |   Mapping then Localization   |    -    |
 | 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |  Localization  |    -    | 
-|      |               |        |       |      |        |
+|   2023   |       IROS        |        |   [Global localization in unstructured environments using semantic object maps built from various viewpoints](https://ieeexplore.ieee.org/abstract/document/10342267/)    |   Loc with Semantic Map   |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
@@ -189,8 +190,18 @@ xxx
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2014   |        RSS |   CMU    |    [LOAM: Lidar odometry and mapping in real-time.](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)    |   SLAM    |   https://github.com/laboshinl/loam_velodyne   |
+|   2015   |       ICRA        |    CMU    |    [Visual-lidar odometry and mapping: Low-drift, robust, and fast](https://ieeexplore.ieee.org/abstract/document/7139486/)   |   SLAM   |    -    |
 |   2018   |       IROS        |        |   [Lego-loam: Lightweight and ground-optimized lidar odometry and mapping on variable terrain](https://ieeexplore.ieee.org/abstract/document/8594299/)    |   SLAM   |     https://github.com/RobustFieldAutonomyLab/LeGO-LOAM    |
+|   2018   |        JFR       |    CMU    |    [Laser–visual–inertial odometry and mapping with high robustness and low drift](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21809)   |   SLAM   |    -    |
 |   2019   |       Applied Sciences        |    NUDT    |    [IMU-aided high-frequency LiDAR odometry for autonomous driving](https://www.mdpi.com/2076-3417/9/7/1506)   |   Localization   |    -    |
+|   2020   |       Remote Sensing        |        |    [Localization in unstructured environments: Towards autonomous robots in forests with delaunay triangulation](https://www.mdpi.com/2072-4292/12/11/1870)   |   Localization   |     -   |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
+|      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 
@@ -205,10 +216,11 @@ xxx
 |      |               |        |       |      |        |
 
 
-* Localization with SD-Map
+* Localization with Lightweight Map
 
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
+|   2019   |        ITSC       |        |   [Unstructured road slam using map predictive road tracking](https://ieeexplore.ieee.org/abstract/document/8917129/)    |   SLAM   |    -    |
 | 2019 |        RA-L       |    MIT    |   [Maplite: Autonomous intersection navigation without a detailed prior map](https://ieeexplore.ieee.org/abstract/document/8936918/)    |   localization and navigation   |    -    | 
 | 2022 |       TAES        |    HEU    |    [TOM-odometry: A generalized localization framework based on topological map and odometry](https://ieeexplore.ieee.org/abstract/document/9940585/)   |   Localization   |    -    |
 |      |               |        |       |      |        |
