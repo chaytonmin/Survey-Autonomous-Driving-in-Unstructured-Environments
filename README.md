@@ -174,6 +174,7 @@ xxx
 ### (2) Localization within Priori HD-Map Review 
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
+| 2018 |        IROS       |        |    [Posemap: Lifelong, multi-environment 3d lidar localization](https://ieeexplore.ieee.org/abstract/document/8593854/)   |   Mapping then Localization   |    -    |
 | 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |  Localization  |    -    | 
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
