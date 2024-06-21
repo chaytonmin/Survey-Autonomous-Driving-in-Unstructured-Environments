@@ -203,7 +203,7 @@ xxx
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
-|      |               |        |       |      |        |
+|   2024   |        TAES       |    HEU    |    [ROSE: Covisibility Region Aware 3D-LiDAR SLAM based on Generative Road Surface Model and Long-term Association]()   |   SLAM   |    https://github.com/SiShuBin/ROSE    |
 
 
 * Place Recognition
