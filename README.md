@@ -20,9 +20,7 @@ This is the official repository for the technical report:
 
 ## 📌 Introduction
 
-xxx
-
-xxx
+The ultimate goal of autonomous driving development is to free the driver from the need to pay attention in any road environment. However, there is relatively less research on autonomous driving for unstructured outdoor environments due to challenges such as environmental variability and scene complexity. Autonomous driving in unstructured outdoor environments is critical for a wide range of applications, such as agriculture, mining, and military. This paper provides a review of autonomous driving in unstructured outdoor environments, covering aspects from dataset, mapping and localization, perception to planning. Challenges and future research directions are also analyzed. This review aims to promote research in autonomous driving for unstructured outdoor environments.
 
 ## Survey Papers for Autonomous Driving in Unstructured Environments 
 
