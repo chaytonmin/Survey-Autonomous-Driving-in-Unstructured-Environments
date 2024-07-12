@@ -160,6 +160,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2020   |        Robotics       |    NUDT    |    [LIDAR scan matching in off-road environments](https://www.mdpi.com/2218-6581/9/2/35)   |   Mapping   |    -    |
+|   2020   |        TIM       |        |    [Gem: online globally consistent dense elevation mapping for unstructured terrain](https://ieeexplore.ieee.org/abstract/document/9293017/)   |   Mapping   |    https://github.com/ZJU-Robotics-Lab/GEM    |
 | 2021 |        Remote Sensing       |    NUDT    |    [Towards a fully automated 3d reconstruction system based on lidar and gnss in challenging scenarios](https://www.mdpi.com/2072-4292/13/10/1981)    |   Mapping   |    -    |
 |   2021   |       IV        |        |    [Fully automatic large-scale point cloud mapping for low-speed self-driving vehicles in unstructured environments](https://ieeexplore.ieee.org/abstract/document/9575571/)   |   Mapping   |    -   |
 | 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |  offline Mapping  |    -    | 
