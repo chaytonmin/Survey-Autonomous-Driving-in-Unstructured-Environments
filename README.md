@@ -20,7 +20,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 
 ## Survey Papers for Autonomous Driving in Unstructured Environments 
 
-| Year |              **Published**               |                     Author                     |                            Title                             |                Task                |
+| Year |              Journal/Conference               |                     Authors                     |                            Title                             |                Task                |
 | ---- | :--------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: | :--------------------------------: |
 | 2020 |                 Sensors                  |    Università degli Studi di Catania, Italy    | [Learning-Based Methods of Perception and Navigation for Ground Vehicles in Unstructured Environments: A Review](https://www.mdpi.com/1424-8220/21/1/73) |     Traversability Analysis      |
 | 2022 |                   JFR                    | Queensland University of Technology, Australia | [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](https://www.journalfieldrobotics.org/Field_Robotics/Volume_2_files/Vol2_49.pdf) |      Traversability Analysis       |
@@ -63,7 +63,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 
 ![Drive](./doc/Drive.png "autonomous driving world models")
 
-| Year |                        **Published**                         |                            Author                            |                            Title                             |                       Task                       | Github |
+| Year |                        Journal/Conference                         |                            Authors                         |                            Title                             |                       Task                       | Github |
 | ---- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------: | :----: |
 | 2003 |                              IV                              | Vehicle-Infrastructure-Driver Interactions Research Unit - LIkX | [ A single framework for vehicle roll, pitch, yaw estimation and obstacles detection by stereovision](https://ieeexplore.ieee.org/abstract/document/1212878) |                Obstacle Detection                |   -    |
 | 2004 |                              -                               |                  Carnegie Mellon University                  | [Vegetation Detection for Mobile Robot Navigation](https://www.ri.cmu.edu/pub_files/pub4/bradley_david_2004_2/bradley_david_2004_2.pdf) |           Positive Obstacle Detection            |   -    |
@@ -114,50 +114,13 @@ The ultimate goal of autonomous driving development is to free the driver from t
 | 2024 |                     IEEE Sensors Journal                     |                     Southeast University                     | [Multisensor Fusion Network for Unstructured Scene Segmentation With Surface Normal Incorporated](https://ieeexplore.ieee.org/abstract/document/10458907/) |             Point cloud segmentation             |   -    |
 
 
-
-## Papers for Autonomous Driving Planning in Unstructured Environments 
-
-![Agent](./doc/Agent.png "autonomous agents world models")
-
-| Year | **Published** | Author | Title | Task | Github |
-| ---- | :-----------: | :----: | :---: | :--: | :----: |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-
 ## Papers for Autonomous Driving Mapping & Localization in Unstructured Environments 
 
 ### (1) HD-Mapping Review 
 
 ![Agent](./doc/Agent.png "autonomous agents world models")
 
-| Year | **Published** | Author | Title | Task | Github |
+| Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2020   |        Robotics       |    NUDT    |    [LIDAR scan matching in off-road environments](https://www.mdpi.com/2218-6581/9/2/35)   |   Mapping   |    -    |
 |   2020   |        TIM       |        |    [Gem: online globally consistent dense elevation mapping for unstructured terrain](https://ieeexplore.ieee.org/abstract/document/9293017/)   |   Mapping   |    https://github.com/ZJU-Robotics-Lab/GEM    |
@@ -176,7 +139,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |      |               |        |       |      |        |
 
 ### (2) Localization within Priori HD-Map Review 
-| Year | **Published** | Author | Title | Task | Github |
+| Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2017   |        IJRR       |        |    [Robust LIDAR localization using multiresolution Gaussian mixture maps for autonomous driving](https://journals.sagepub.com/doi/abs/10.1177/0278364917696568)   |   Localization   |    -    |
 | 2018 |        IROS       |        |    [Posemap: Lifelong, multi-environment 3d lidar localization](https://ieeexplore.ieee.org/abstract/document/8593854/)   |   Mapping then Localization   |    -    |
@@ -192,7 +155,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 ### (3) Localization without Priori HD-Map Review 
 * Diverse Odometry / SLAM 
 
-| Year | **Published** | Author | Title | Task | Github |
+| Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2009   |       JFR        |        |    [Gamma‐SLAM: Visual SLAM in unstructured environments using variance grid maps](https://cseweb.ucsd.edu/~gary/pubs/Gamma-SLAM-JFR-2009.pdf)   |   vSLAM   |     -   |
 |   2014   |        RSS |   CMU    |    [LOAM: Lidar odometry and mapping in real-time.](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)    |   SLAM    |   https://github.com/laboshinl/loam_velodyne   |
@@ -216,7 +179,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 
 * Place Recognition
 
-| Year | **Published** | Author | Title | Task | Github |
+| Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
@@ -226,7 +189,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 
 * Localization with Lightweight Map
 
-| Year | **Published** | Author | Title | Task | Github |
+| Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2019   |        ITSC       |        |   [Unstructured road slam using map predictive road tracking](https://ieeexplore.ieee.org/abstract/document/8917129/)    |   SLAM   |    -    |
 | 2019 |        RA-L       |    MIT    |   [Maplite: Autonomous intersection navigation without a detailed prior map](https://ieeexplore.ieee.org/abstract/document/8936918/)    |   localization and navigation   |    -    | 
@@ -236,6 +199,42 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 
+## Papers for Autonomous Driving Path Planning in Unstructured Environments 
+
+| Year | Journal/Conference                                           | Authors                                           | Title                                                        | Task List                                |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| 2021 | Advanced Robotics                                            | Keio University                                   | [Energy-aware trajectory planning for planetary rovers](https://www.tandfonline.com/doi/pdf/10.1080/01691864.2021.1959396) | Dijkstra’s algorithm                     |
+| 2018 | Journal of Dynamic Systems, Measurement, and Control         | Ford Motor Company                                | [A hierarchical route guidance framework for off-road connected vehicles](https://asmedigitalcollection.asme.org/dynamicsystems/article/140/7/071011/384699) | Dynamic Programming                      |
+| 1994 | IEEE International Conference on Robotics and Automation     | Carnegie Mellon University                        | [Optimal and efficient path planning for partially-known environments](http://web.mit.edu/16.412j/www/html/papers/original_dstar_icra94.pdf) | Dynamic A*                               |
+| 2012 | IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology | Beijing Institute of Technology                   | [Ara*+: Improved path planning algorithm based on ara](https://ieeexplore.ieee.org/abstract/document/6511594/) | Anytime Repairing A*                     |
+| 2005 | ICAPS                                                        | Carnegie Mellon University                        | [Anytime dynamic a*: An anytime, replanning algorithm ](https://cdn.aaai.org/ICAPS/2005/ICAPS05-027.pdf) | Anytime Dynamic A*                       |
+| 2019 | International Conference on Control, Automation and Robotics (ICCAR) | Panasonic Automotive Systems Europe GmbH          | [Guided hybrid a-star path planning algorithm for valet parking applications ](https://ieeexplore.ieee.org/abstract/document/8813752/) | Hybrid A*                                |
+| 2008 | Journal of field Robotics                                    | Stanford Artificial Intelligence Laboratory       | [Junior: The Stanford entry in the urban challenge ](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rob.20258) | AD*                                      |
+| 2021 | ISPRS International Journal of Geo-Information               | Shanghai Ocean University                         | [Improved a-star algorithm for long-distance off-road path planning using terrain data map ](https://www.mdpi.com/2220-9964/10/11/785) | improved A* algorithm                    |
+| 2008 | IEEE intelligent vehicles symposium                          | Atlatec GmbH                                      | [Navigating car-like robots in unstructured environments using an obstacle sensitive cost function ](https://core.ac.uk/download/pdf/197557026.pdf) | A* algorithm, Voronoi cost function      |
+| 2022 | Machines                                                     | Chinese Academy of Sciences                       | [A global path planning method for unmanned ground vehicles in off-road environments based on mobility prediction ](https://www.mdpi.com/2075-1702/10/5/375) | PRM, improved A* algorithm               |
+| 2024 | IEEE Transactions on Intelligent Transportation Systems      | Hunan University                                  | [Multi-vehicle collaborative trajectory planning in unstructured conflict areas based on v-hybrid a ](https://ieeexplore.ieee.org/abstract/document/10499865/) | Velocity Hybrid A*                       |
+| 2024 | ISPRS International Journal of Geo-Information               | National University of Defense Technology, China  | [Two-stage path planning for long-distance off-road path planning based on terrain data ](https://www.mdpi.com/2220-9964/13/6/184) | PRM, the A* algorithm                    |
+| 2010 | IEEE Transactions on Robotics                                | NANO-D group, INRIA                               | [Sampling-based path planning on configuration-space costmaps ](https://upcommons.upc.edu/bitstream/handle/2117/12361/jaillet.pdf) | T-RRT                                    |
+| 2023 | Expert Systems with Applications                             | Tsinghua University                               | [Driving risk-aversive motion planning in off-road environment ](https://www.sciencedirect.com/science/article/pii/S0957417422024459) | potential field-based RRT*               |
+| 2021 | IEEE Transactions on Automation Science and Engineering      | University of Michigan–Dearborn                   | [R2-rrt*: Reliability-based robust mission planning of off-road autonomous ground vehicle under uncertain terrain environment ](https://reliadesign.net/wp-content/uploads/2021/01/09334392.pdf) | R2-RRT*                                  |
+| 2023 | IEEE Transactions on Intelligent Transportation Systems      | Wuhan University of Technology                    | [Efficient reliability-based path planning of off-road autonomous ground vehicles through the coupling of surrogate modeling and rrt ](https://ieeexplore.ieee.org/abstract/document/10194466/) | ER-RRT*, surrogate modeling              |
+| 2024 | arXiv preprint                                               | Tsinghua University                               | [A risk-aware planning framework of ugvs in off-road environment ](https://arxiv.org/pdf/2402.02457) | APF, Coarse2fine A*                      |
+| 2024 | Traffic injury prevention                                    | Suzhou Institute of construction & communications | [Risk field modeling of urban tunnel based on apf ](https://www.tandfonline.com/doi/abs/10.1080/15389588.2023.2175606) | APF                                      |
+| 2020 | IEEE access                                                  | Chinese Academy of Sciences                       | [Path planning method with improved artificial potential field—a reinforcement learning perspective ](https://ieeexplore.ieee.org/iel7/6287639/8948470/09146273.pdf) | improved black hole potential fields, RL |
+| 2024 | International Conference on Automation, Robotics and Applications (ICARA) | Sun Yat-sen University                            | [On hierarchical path planning based on deep reinforcement learning in off-road environments ](https://ieeexplore.ieee.org/abstract/document/10552949/) | DWA, improved D* Lite algorithm          |
+| 2023 | ICARA                                                        | Politecnico di Torino                             | [Rl-dwa omnidirectional motion planning for person following in domestic assistance and monitoring ](https://arxiv.org/pdf/2211.04993) | DWA, DRL                                 |
+| 2022 | IEEE Transactions on Transportation Electrification          | University of Science and Technology Beijing      | [Automatic parking path planning of tracked vehicle based on improved a* and dwa algorithms ](https://ieeexplore.ieee.org/abstract/document/9858184/) | DWA, improved A* algorithm               |
+| 2020 | International Journal of Advanced Robotic Systems            | East China University of Science and Technology   | [Path planning of lunar robot based on dynamic adaptive ant colony algorithm and obstacle avoidance ](https://journals.sagepub.com/doi/pdf/10.1177/1729881419898979) | ACO, APF                                 |
+| 2018 | Wireless Personal Communications                             | Army Engineering University, China                | [Off-road path planning based on improved ant colony algorithm ](https://link.springer.com/article/10.1007/s11277-017-5229-5) | ACO                                      |
+| 2021 | Mathematical Problems in Engineering                         | Wuhan University of Technology                    | [Multiobjective optimization of an off-road vehicle suspension parameter through a genetic algorithm based on the particle swarm optimization ](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2021/9640928) | GA, PSO                                  |
+| 2023 | International Journal of Modeling, Simulation, and Scientific Computing | Anhui Polytechnic University                      | [Research on path planning of mobile robot based on improved genetic algorithm ](https://www.worldscientific.com/doi/abs/10.1142/S1793962323410301) | improved GA                              |
+| 2022 | arXiv preprint                                               | University of Guelph                              | [A novel knowledge-based genetic algorithm for robot path planning in complex environments ](https://arxiv.org/pdf/2209.01482) | knowledge-based GA                       |
+| 2022 | arXiv preprint                                               | Samsung Advanced Institute of Technology          | [Vision-based autonomous driving for unstructured environments using imitation learning ](https://arxiv.org/pdf/2202.10002) | Imitation Learning                       |
+| 2023 | IEEE Transactions on Vehicular Technology                    | Beihang University                                | [Trajectory planning for autonomous driving in unstructured scenarios based on deep learning and quadratic optimization ](https://ieeexplore.ieee.org/abstract/document/10310161/) | Deep Learning, Quadratic Optimization    |
+| 2024 | Robotics                                                     | Transilvania University of Brasov                 | [A vision dynamics learning approach to robotic navigation in unstructured environments ](https://www.mdpi.com/2218-6581/13/1/15/pdf) | RNN, DWA                                 |
+| 2018 | Proceedings of the European Conference on Computer Vision (ECCV) Workshops | Microsoft                                         | [Learning driving behaviors for automated cars in unstructured environments ](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Kaushik_Learning_Driving_Behaviors_for_Automated_Cars_in_Unstructured_Environments_ECCVW_2018_paper.pdf) | DDPG                                     |
+| 2023 | IEEE Transactions on Intelligent Vehicles                    | Xidian University                                 | [Deep reinforcement learning-based off-road path planning via low-dimensional simulation ](https://ieeexplore.ieee.org/abstract/document/10375107/) | PPO, Curriculum Learning                 |
 
 ## Contact
 
