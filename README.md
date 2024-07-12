@@ -183,7 +183,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
-|      |               |        |       |      |        |
+|   2024   |        TRO       |    HKU    |   [BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition](https://ieeexplore.ieee.org/abstract/document/10388464/)    |   Place Recognition   |    https://github.com/hku-mars/btc_descriptor    |
 
 
 * Localization with Lightweight Map
