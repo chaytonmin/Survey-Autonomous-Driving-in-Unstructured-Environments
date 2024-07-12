@@ -176,7 +176,6 @@ The ultimate goal of autonomous driving development is to free the driver from t
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 | 2018 |        IROS       |        |    [Posemap: Lifelong, multi-environment 3d lidar localization](https://ieeexplore.ieee.org/abstract/document/8593854/)   |   Mapping then Localization   |    -    |
 | 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |  Localization  |    -    | 
-|   2023   |       IROS        |        |   [Global localization in unstructured environments using semantic object maps built from various viewpoints](https://ieeexplore.ieee.org/abstract/document/10342267/)    |   Loc with Semantic Map   |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
@@ -201,7 +200,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
-|      |               |        |       |      |        |
+|   2024   |        RA-L       |        |    [Switch-SLAM: Switching-Based LiDAR-Inertial-Visual SLAM for Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10582434/)   |   SLAM   |    -    |
 |   2024   |        TAES       |    HEU    |    [ROSE: Covisibility Region Aware 3D-LiDAR SLAM based on Generative Road Surface Model and Long-term Association]()   |   SLAM   |    https://github.com/SiShuBin/ROSE    |
 
 
@@ -222,6 +221,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2019   |        ITSC       |        |   [Unstructured road slam using map predictive road tracking](https://ieeexplore.ieee.org/abstract/document/8917129/)    |   SLAM   |    -    |
 | 2019 |        RA-L       |    MIT    |   [Maplite: Autonomous intersection navigation without a detailed prior map](https://ieeexplore.ieee.org/abstract/document/8936918/)    |   localization and navigation   |    -    | 
 | 2022 |       TAES        |    HEU    |    [TOM-odometry: A generalized localization framework based on topological map and odometry](https://ieeexplore.ieee.org/abstract/document/9940585/)   |   Localization   |    -    |
+|   2023   |       IROS        |        |   [Global localization in unstructured environments using semantic object maps built from various viewpoints](https://ieeexplore.ieee.org/abstract/document/10342267/)    |   Loc with Semantic Map   |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
