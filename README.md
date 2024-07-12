@@ -182,11 +182,11 @@ The ultimate goal of autonomous driving development is to free the driver from t
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
-|   2023   |        IROS       |        |    [Deep robust multi-robot re-localisation in natural environments](https://ieeexplore.ieee.org/abstract/document/10341798/)   |   Re-Localization   |        |
+|   2023   |        IROS       |        |    [Deep robust multi-robot re-localisation in natural environments](https://ieeexplore.ieee.org/abstract/document/10341798/)   |   Re-Localization   |    -    |
 |   2024   |        TRO       |    HKU    |   [BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition](https://ieeexplore.ieee.org/abstract/document/10388464/)    |   Place Recognition   |    https://github.com/hku-mars/btc_descriptor    |
-|   2024   |       arXiv        |        |    [Towards Long-term Robotics in the Wild](https://arxiv.org/abs/2404.18477)   |   Place Recognition   |        |
+|   2024   |       arXiv        |        |    [Towards Long-term Robotics in the Wild](https://arxiv.org/abs/2404.18477)   |   Place Recognition   |    -    |
 |   2024   |       arXiv       |        |    [Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests](https://arxiv.org/abs/2403.14326)   |   Place Recognition   |    https://ori-drs.github.io/datasets/    |
-|      |               |        |       |      |        |
+|   2024   |       arXiv       |        |    [PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture](https://arxiv.org/abs/2405.19038)   |   Place Recognition   |    https://github.com/Cybonic/PointNetPGAP-SLC.git    |
 |      |               |        |       |      |        |
 
 
