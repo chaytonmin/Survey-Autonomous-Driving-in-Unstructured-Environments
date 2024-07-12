@@ -176,13 +176,13 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2024   |        TAES       |    HEU    |    [ROSE: Covisibility Region Aware 3D-LiDAR SLAM based on Generative Road Surface Model and Long-term Association](https://ieeexplore.ieee.org/abstract/document/10582431/)   |   SLAM   |    https://github.com/SiShuBin/ROSE    |
 
 
-* Place Recognition
+* Place Recognition & Re-Localization 
 
 | Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
-|      |               |        |       |      |        |
+|   2023   |        IROS       |        |    [Deep robust multi-robot re-localisation in natural environments](https://ieeexplore.ieee.org/abstract/document/10341798/)   |   Re-Localization   |        |
 |   2024   |        TRO       |    HKU    |   [BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition](https://ieeexplore.ieee.org/abstract/document/10388464/)    |   Place Recognition   |    https://github.com/hku-mars/btc_descriptor    |
 
 
