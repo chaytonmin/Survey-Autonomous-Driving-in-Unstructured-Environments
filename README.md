@@ -195,6 +195,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2019   |       Applied Sciences        |    NUDT    |    [IMU-aided high-frequency LiDAR odometry for autonomous driving](https://www.mdpi.com/2076-3417/9/7/1506)   |   Localization   |    -    |
 |   2019   |        ITSC       |        |    [Unstructured road slam using map predictive road tracking](https://ieeexplore.ieee.org/abstract/document/8917129/)   |   SLAM   |        |
 |   2020   |       Remote Sensing        |        |    [Localization in unstructured environments: Towards autonomous robots in forests with delaunay triangulation](https://www.mdpi.com/2072-4292/12/11/1870)   |   Localization   |     -   |
+|   2020   |       RA-L        |        |    [LOCUS: A Multi-Sensor Lidar-Centric Solution for High-Precision Odometry and 3D Mapping in Real-Time](https://arxiv.org/pdf/2012.14447)   |   SLAM   |    -    |
 |   2022   |       RA-L        |    HKU    |    [Efficient and probabilistic adaptive voxel mapping for accurate online lidar odometry](https://ieeexplore.ieee.org/abstract/document/9813516/)   |   Localization   |     https://github.com/hku-mars/VoxelMap   |
 |   2022   |       Remote Sensing       |        |    [LiDAR Odometry and Mapping Based on Neighborhood Information Constraints for Rugged Terrain](file:///home/omnisky/Desktop/remotesensing-14-05229-v2.pdf)   |   SLAM   |        |
 |      |               |        |       |      |        |
