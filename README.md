@@ -180,6 +180,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2022   |        IROS       |        |   [Roll: Long-term robust lidar-based localization with temporary mapping in changing environments](https://ieeexplore.ieee.org/abstract/document/9982153/)    |   Localization   |     https://github.com/HaisenbergPeng/ROLL    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
+|   2024   |       JFR       |    HKU    |    [LTA‐OM: Long‐term association LiDAR–IMU odometry and mapping](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22337)   |   Localization & Mapping   |    https://github.com/hku-mars/LTAOM    |
 
 
 ### (3) Localization without Priori HD-Map Review 
