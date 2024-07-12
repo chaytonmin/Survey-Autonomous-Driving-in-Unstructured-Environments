@@ -180,7 +180,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 
 | Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
-|      |               |        |       |      |        |
+|   2022   |        Sensors       |        |    [STV-SC: Segmentation and Temporal Verification Enhanced Scan Context for Place Recognition in Unstructured Environment](https://www.mdpi.com/1424-8220/22/22/8604)   |   Place Recognition   |    -    |
 |      |               |        |       |      |        |
 |   2023   |        IROS       |        |    [Deep robust multi-robot re-localisation in natural environments](https://ieeexplore.ieee.org/abstract/document/10341798/)   |   Re-Localization   |    -    |
 |   2024   |        TRO       |    HKU    |   [BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition](https://ieeexplore.ieee.org/abstract/document/10388464/)    |   Place Recognition   |    https://github.com/hku-mars/btc_descriptor    |
