@@ -191,6 +191,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 
 | Year | **Published** | Author | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
+|   2009   |       JFR        |        |    [Gamma‐SLAM: Visual SLAM in unstructured environments using variance grid maps](https://cseweb.ucsd.edu/~gary/pubs/Gamma-SLAM-JFR-2009.pdf)   |   vSLAM   |     -   |
 |   2014   |        RSS |   CMU    |    [LOAM: Lidar odometry and mapping in real-time.](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)    |   SLAM    |   https://github.com/laboshinl/loam_velodyne   |
 |   2015   |       ICRA        |    CMU    |    [Visual-lidar odometry and mapping: Low-drift, robust, and fast](https://ieeexplore.ieee.org/abstract/document/7139486/)   |   SLAM   |    -    |
 |   2018   |       IROS        |        |   [Lego-loam: Lightweight and ground-optimized lidar odometry and mapping on variable terrain](https://ieeexplore.ieee.org/abstract/document/8594299/)    |   SLAM   |     https://github.com/RobustFieldAutonomyLab/LeGO-LOAM    |
