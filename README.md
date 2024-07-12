@@ -198,13 +198,8 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2020   |       RA-L        |        |    [LOCUS: A Multi-Sensor Lidar-Centric Solution for High-Precision Odometry and 3D Mapping in Real-Time](https://arxiv.org/pdf/2012.14447)   |   SLAM   |    -    |
 |   2022   |       RA-L        |    HKU    |    [Efficient and probabilistic adaptive voxel mapping for accurate online lidar odometry](https://ieeexplore.ieee.org/abstract/document/9813516/)   |   Localization   |     https://github.com/hku-mars/VoxelMap   |
 |   2022   |       Remote Sensing       |        |    [LiDAR Odometry and Mapping Based on Neighborhood Information Constraints for Rugged Terrain](file:///home/omnisky/Desktop/remotesensing-14-05229-v2.pdf)   |   SLAM   |     -   |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
 |   2024   |        RA-L       |        |    [Switch-SLAM: Switching-Based LiDAR-Inertial-Visual SLAM for Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10582434/)   |   SLAM   |    -    |
-|   2024   |        TAES       |    HEU    |    [ROSE: Covisibility Region Aware 3D-LiDAR SLAM based on Generative Road Surface Model and Long-term Association]()   |   SLAM   |    https://github.com/SiShuBin/ROSE    |
+|   2024   |        TAES       |    HEU    |    [ROSE: Covisibility Region Aware 3D-LiDAR SLAM based on Generative Road Surface Model and Long-term Association](https://ieeexplore.ieee.org/abstract/document/10582431/)   |   SLAM   |    https://github.com/SiShuBin/ROSE    |
 
 
 * Place Recognition
