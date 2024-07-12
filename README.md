@@ -179,6 +179,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2017   |        IJRR       |        |    [Robust LIDAR localization using multiresolution Gaussian mixture maps for autonomous driving](https://journals.sagepub.com/doi/abs/10.1177/0278364917696568)   |   Localization   |    -    |
 | 2018 |        IROS       |        |    [Posemap: Lifelong, multi-environment 3d lidar localization](https://ieeexplore.ieee.org/abstract/document/8593854/)   |   Mapping then Localization   |    -    |
 |   2019   |        Remote Sensing       |    Tongji University    |   [A Precise and Robust Segmentation-Based Lidar Localization System for Automated Urban Driving](https://www.mdpi.com/2072-4292/11/11/1348)    |   Localization   |    -    |
+|   2020   |        Remote Sensing       |        |    [Localization in unstructured environments: Towards autonomous robots in forests with delaunay triangulation](https://www.mdpi.com/2072-4292/12/11/1870/pdf)   |   Localization   |    -    |
 | 2021 |        JFR       |    NUDT    |    [LiDAR‐based robust localization for field autonomous vehicles in off‐road environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22031)    |  Localization  |    -    | 
 |   2022   |        IROS       |        |   [Roll: Long-term robust lidar-based localization with temporary mapping in changing environments](https://ieeexplore.ieee.org/abstract/document/9982153/)    |   Localization   |     https://github.com/HaisenbergPeng/ROLL    |
 |      |               |        |       |      |        |
