@@ -198,7 +198,7 @@ The ultimate goal of autonomous driving development is to free the driver from t
 | 2019 |        RA-L       |    MIT    |   [Maplite: Autonomous intersection navigation without a detailed prior map](https://ieeexplore.ieee.org/abstract/document/8936918/)    |   localization and navigation   |    -    | 
 | 2022 |       TAES        |    HEU    |    [TOM-odometry: A generalized localization framework based on topological map and odometry](https://ieeexplore.ieee.org/abstract/document/9940585/)   |   Localization   |    -    |
 |   2023   |       IROS        |        |   [Global localization in unstructured environments using semantic object maps built from various viewpoints](https://ieeexplore.ieee.org/abstract/document/10342267/)    |   Loc with Semantic Map   |    -    |
-|      |               |        |       |      |        |
+|   2023   |        arXiv       |        |    [ALT-Pilot: Autonomous navigation with Language augmented Topometric maps](https://arxiv.org/abs/2310.02324)   |      |    -    |
 |      |               |        |       |      |        |
 |      |               |        |       |      |        |
 
