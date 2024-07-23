@@ -135,8 +135,6 @@ Research on autonomous driving in unstructured environments is less advanced tha
 
 ## Papers for Autonomous Driving Perception in Unstructured Environments 
 
-![Drive](./doc/Drive.png "autonomous driving world models")
-
 | Year |                        Journal/Conference                         |                            Authors                         |                            Title                             |                       Task                       | Github |
 | ---- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------: | :----: |
 | 2003 |                              IV                              | Vehicle-Infrastructure-Driver Interactions Research Unit - LIkX | [ A single framework for vehicle roll, pitch, yaw estimation and obstacles detection by stereovision](https://ieeexplore.ieee.org/abstract/document/1212878) |                Obstacle Detection                |   -    |
@@ -223,6 +221,16 @@ Research on autonomous driving in unstructured environments is less advanced tha
 | 2024 | Robotics                                                     | Transilvania University of Brasov                 | [A vision dynamics learning approach to robotic navigation in unstructured environments ](https://www.mdpi.com/2218-6581/13/1/15/pdf) | RNN, DWA                                 |
 | 2018 | Proceedings of the European Conference on Computer Vision (ECCV) Workshops | Microsoft                                         | [Learning driving behaviors for automated cars in unstructured environments ](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Kaushik_Learning_Driving_Behaviors_for_Automated_Cars_in_Unstructured_Environments_ECCVW_2018_paper.pdf) | DDPG                                     |
 | 2023 | IEEE Transactions on Intelligent Vehicles                    | Xidian University                                 | [Deep reinforcement learning-based off-road path planning via low-dimensional simulation ](https://ieeexplore.ieee.org/abstract/document/10375107/) | PPO, Curriculum Learning                 |
+
+## Papers for End-to-End Autonomous Driving in Unstructured Environments 
+
+| Year | **Published** |       Author       |                            Title                             |                             Task                             |                   Github                   |
+| ---- | :-----------: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------: |
+| 2020 |      IV       |        PKU         | [Off-road Autonomous Vehicles Traversability Analysis and Trajectory Planning Based on Deep Inverse Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9304721/) | Reinforcement Learning, Traversability Estimation,     Trajectory Planning |                     -                      |
+| 2020 |     ICRA      | McGill University  | [Learning to Drive Off Road on Smooth Terrain in Unstructured Environments Using an On-Board Camera and Sparse Aerial Images](https://arxiv.org/pdf/2004.04697) | Reinforcement Learning, Traversability Estimation,     Trajectory Planning |                     -                      |
+| 2022 |      RAL      |       NIIDT        | [AdaptiveON: Adaptive Outdoor Local Navigation Method for Stable and Reliable Actions](https://arxiv.org/pdf/2205.03517) |             Reinforcement Learning, Sim-to-Real              |    https://github.com/jingGM/adaptiveON    |
+| 2024 |     ICRA      | Indiana University | [Gaussian Process-based Traversability Analysis for Terrain Mapless Navigation](https://arxiv.org/pdf/2403.19010) | Sparse Gaussian Process (SGP) local map with a Rapidly-Exploring Random Tree* (RRT*) planner | https://github.com/abeleinin/gp-navigation |
+
 
 ## Contact
 
