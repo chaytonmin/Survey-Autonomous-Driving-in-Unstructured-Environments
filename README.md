@@ -12,7 +12,7 @@ This is the official repository for the technical report:
 
 ## 📌 Introduction
 
-The ultimate goal of autonomous driving development is to free the driver from the need to pay attention in any road environment. However, there is relatively less research on autonomous driving for unstructured outdoor environments due to challenges such as environmental variability and scene complexity. Autonomous driving in unstructured outdoor environments is critical for a wide range of applications, such as agriculture, mining, and military. This paper provides a review of autonomous driving in unstructured outdoor environments, covering aspects from dataset, mapping and localization, perception to planning. Challenges and future research directions are also analyzed. This review aims to promote research in autonomous driving for unstructured outdoor environments.
+Research on autonomous driving in unstructured environments is less advanced than in urban settings due to challenges like environmental variability and scene complexity. These environments—such as rural areas and rugged terrains—pose unique obstacles that are not common in urban areas. Despite these difficulties, autonomous driving in such contexts is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 200 papers, covering datasets, mapping and localization, environmental perception, path planning, end-to-end driving solutions, and associated challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research in this field.
 
 ## Survey Papers for Autonomous Driving in Unstructured Environments 
 
@@ -58,8 +58,6 @@ The ultimate goal of autonomous driving development is to free the driver from t
 
 ### (1) HD-Mapping Review 
 
-![Agent](./doc/Agent.png "autonomous agents world models")
-
 | Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2020   |        Robotics       |    NUDT    |    [LIDAR scan matching in off-road environments](https://www.mdpi.com/2218-6581/9/2/35)   |   Mapping   |    -    |
@@ -91,7 +89,6 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2023   |       ECMR       |        |    [Learned long-term stability scan filtering for robust robot localisation in continuously changing environments](https://ieeexplore.ieee.org/abstract/document/10256419/)   |   Localization   |     -   |
 |   2024   |       JFR       |    HKU    |    [LTA‐OM: Long‐term association LiDAR–IMU odometry and mapping](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22337)   |   Localization & Mapping   |    https://github.com/hku-mars/LTAOM    |
 
-
 ### (3) Localization without Priori HD-Map Review 
 * Diverse Odometry / SLAM 
 
@@ -114,7 +111,6 @@ The ultimate goal of autonomous driving development is to free the driver from t
 |   2024   |        RA-L       |        |    [Switch-SLAM: Switching-Based LiDAR-Inertial-Visual SLAM for Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10582434/)   |   SLAM   |    -    |
 |   2024   |        Measurement       |        |    [Highly robust and accurate multi-sensor fusion localization system for complex and challenging scenarios](https://www.sciencedirect.com/science/article/pii/S026322412400736X)   |   Localization   |    -    |
 |   2024   |        TAES       |    HEU    |    [ROSE: Covisibility Region Aware 3D-LiDAR SLAM based on Generative Road Surface Model and Long-term Association](https://ieeexplore.ieee.org/abstract/document/10582431/)   |   SLAM   |    https://github.com/SiShuBin/ROSE    |
-
 
 * Place Recognition & Re-Localization 
 
