@@ -10,6 +10,16 @@
 
 Research on autonomous driving in unstructured environments is less advanced than in urban settings due to challenges like environmental variability and scene complexity. These environments—such as rural areas and rugged terrains—pose unique obstacles that are not common in urban areas. Despite these difficulties, autonomous driving in such contexts is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 200 papers, covering datasets, mapping and localization, environmental perception, path planning, end-to-end driving solutions, and associated challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research in this field.
 
+## Table of Contents
+
+- [Survey Papers](#Survey Papers for Autonomous Driving in Unstructured Environments)
+- [Datasets](#Papers for Autonomous Driving Datasets in Unstructured Environments)
+- [Mapping & Localization](#Papers for Autonomous Driving Mapping & Localization in Unstructured Environments )
+- [Environmental Perception](#Papers for Autonomous Driving Perception in Unstructured Environments )
+- [Path Planning](#Papers for Autonomous Driving Path Planning in Unstructured Environments )
+- [End-to-End Driving](#Papers for End-to-End Autonomous Driving in Unstructured Environments) 
+- [Citation](#Contact)
+
 ## Survey Papers for Autonomous Driving in Unstructured Environments 
 
 | Year |              Journal/Conference               |                     Authors                     |                            Title                             |                Task                |
