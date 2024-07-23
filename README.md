@@ -12,7 +12,7 @@ Research on autonomous driving in unstructured environments is less advanced tha
 
 ## Table of Contents
 
-- [Survey Papers](#Survey Papers for Autonomous Driving in Unstructured Environments)
+- [Survey Papers](#Survey-Papers-for-Autonomous-Driving-in-Unstructured-Environments)
 - [Datasets](#Papers for Autonomous Driving Datasets in Unstructured Environments)
 - [Mapping & Localization](#Papers for Autonomous Driving Mapping & Localization in Unstructured Environments )
 - [Environmental Perception](#Papers for Autonomous Driving Perception in Unstructured Environments )
