@@ -8,7 +8,7 @@
 
 ## 📌 Introduction
 
-Research on autonomous driving in unstructured environments is less advanced than in urban settings due to challenges like environmental variability and scene complexity. These environments—such as rural areas and rugged terrains—pose unique obstacles that are not common in urban areas. Despite these difficulties, autonomous driving in such contexts is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 200 papers, covering datasets, mapping and localization, environmental perception, path planning, end-to-end driving solutions, and associated challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research in this field.
+Research on autonomous driving in unstructured outdoor environments is less advanced than in structured urban settings due to challenges like environmental diversities and scene complexity. These environments—such as rural areas and rugged terrains—pose unique obstacles that are not common in structured urban areas. Despite these difficulties, autonomous driving in unstructured outdoor environments is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 200 papers for autonomous driving in unstructured outdoor environments, covering datasets, mapping and localization, environmental perception, path planning, end-to-end driving solutions, and relevant challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research in this field.
 
 ## Table of Contents
 
@@ -79,8 +79,6 @@ Research on autonomous driving in unstructured environments is less advanced tha
 |   2024   |       JFR       |    HKU    |    [LTA‐OM: Long‐term association LiDAR–IMU odometry and mapping](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22337)   |   Localization & Mapping   |    https://github.com/hku-mars/LTAOM    |
 |   2024   |       arXiv       |    MIT    |    [Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation](https://arxiv.org/pdf/2405.11176)   |   Mapping   |    -    |
 |   2024   |       arXiv        |    HKUST    |    [MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection](https://arxiv.org/abs/2406.02096)   |   Mapping   |    https://github.com/JokerJohn/MS-Mapping    |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
 
 ### (2) Localization within Priori HD-Map Review 
 | Year | Journal/Conference | Authors | Title | Task | Github |
@@ -129,7 +127,6 @@ Research on autonomous driving in unstructured environments is less advanced tha
 |   2024   |       arXiv        |        |    [Towards Long-term Robotics in the Wild](https://arxiv.org/abs/2404.18477)   |   Place Recognition   |    -    |
 |   2024   |       arXiv       |        |    [Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests](https://arxiv.org/abs/2403.14326)   |   Place Recognition   |    https://ori-drs.github.io/datasets/    |
 |   2024   |       arXiv       |        |    [PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture](https://arxiv.org/abs/2405.19038)   |   Place Recognition   |    https://github.com/Cybonic/PointNetPGAP-SLC.git    |
-|      |               |        |       |      |        |
 
 * Localization with Lightweight Map
 
@@ -140,8 +137,6 @@ Research on autonomous driving in unstructured environments is less advanced tha
 | 2022 |       TAES        |    HEU    |    [TOM-odometry: A generalized localization framework based on topological map and odometry](https://ieeexplore.ieee.org/abstract/document/9940585/)   |   Localization   |    -    |
 |   2023   |       IROS        |        |   [Global localization in unstructured environments using semantic object maps built from various viewpoints](https://ieeexplore.ieee.org/abstract/document/10342267/)    |   Loc with Semantic Map   |    -    |
 |   2023   |        arXiv       |        |    [ALT-Pilot: Autonomous navigation with Language augmented Topometric maps](https://arxiv.org/abs/2310.02324)   |      |    -    |
-|      |               |        |       |      |        |
-|      |               |        |       |      |        |
 
 ## Papers for Autonomous Driving Perception in Unstructured Environments 
 
