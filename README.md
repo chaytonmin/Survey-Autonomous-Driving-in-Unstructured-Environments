@@ -189,6 +189,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 | 2024 |                             RAL                              |              California Institute of Technology              | [Pixel to Elevation: Learning to Predict Elevation Maps at Long Range]() |                  Elevation Maps                  |   -    |
 | 2024 |                            Arxiv                             |              California Institute of Technology              | [RoadRunner - Learning Traversability Estimation for Autonomous Off-road Driving](https://arxiv.org/pdf/2402.19341) |            Traversability Estimation             |   -    |
 | 2024 |                     IEEE Sensors Journal                     |                     Southeast University                     | [Multisensor Fusion Network for Unstructured Scene Segmentation With Surface Normal Incorporated](https://ieeexplore.ieee.org/abstract/document/10458907/) |             Point cloud segmentation             |   -    |
+| 2024 |                     IROS                     |                     CTU in Prague                     | [MonoForce: Self-supervised Learning of Physics-aware Model for Predicting Robot-terrain Interaction](https://arxiv.org/abs/2309.09007) |             Traversability Estimation             |   -    |
 
 ## Papers for Autonomous Driving Path Planning in Unstructured Environments 
 
