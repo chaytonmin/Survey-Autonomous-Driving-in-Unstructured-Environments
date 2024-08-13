@@ -3,7 +3,7 @@
 # [A Comprehensive Survey on Autonomous Driving in Unstructured Outdoor Environments](https://arxiv.org/xxx) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/xxx) 
 
 <p align="center">
-<img src="doc/show1.png" width="720px"/>  
+<img src="doc/features.png" width="720px"/>  
 </p>
 
 ## 📌 Introduction
@@ -34,7 +34,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 
 ## Papers for Autonomous Driving Datasets in Unstructured Environments 
 
-![VideoGen](./doc/datasets.png "Autonomous Driving Datasets in Unstructured Environments")
+![VideoGen](./doc/data.png "Autonomous Driving Datasets in Unstructured Environments")
 
 | Year |                           Datasets                           |                            Title                             |                Sensors                 |                            Task                             |                             Link                             |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------------: |
