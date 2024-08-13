@@ -4,7 +4,8 @@
 
 <p align="center">
 <img src="doc/features.png" width="720px"/>  
-  
+</p>
+<p align="center">
 (Diagram of Inherent Characteristics of Unstructured Environments.)
 </p>
 
