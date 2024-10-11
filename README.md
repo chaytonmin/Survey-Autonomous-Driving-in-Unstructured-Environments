@@ -1,6 +1,6 @@
 
 
-# [A Comprehensive Survey on Autonomous Driving in Unstructured Outdoor Environments](https://arxiv.org/xxx) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/xxx) 
+# [Autonomous Driving in Unstructured Environments: How Far Have We Come?](https://arxiv.org/abs/2410.07701) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07701) 
 
 <p align="center">
 <img src="doc/show1.png" width="720px"/>  
@@ -11,13 +11,14 @@
 
 ## 📌 Introduction
 
-Research on autonomous driving in unstructured outdoor environments is less advanced than in structured urban settings due to challenges like environmental diversities and scene complexity. These environments—such as rural areas and rugged terrains—pose unique obstacles that are not common in structured urban areas. Despite these difficulties, autonomous driving in unstructured outdoor environments is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 200 papers for autonomous driving in unstructured outdoor environments, covering datasets, mapping and localization, environmental perception, path planning, end-to-end driving solutions, and relevant challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research in this field.
+Research on autonomous driving in unstructured outdoor environments is less advanced than in structured urban settings due to challenges like environmental diversities and scene complexity. These environments-such as rural areas and rugged terrains-pose unique obstacles that are not common in structured urban areas. Despite these difficulties, autonomous driving in unstructured outdoor environments is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 250 papers for autonomous driving in unstructured outdoor environments, covering offline mapping, pose estimation, environmental perception, path planning, end-to-end autonomous driving, datasets, and relevant challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research for autonomous driving in unstructured environments.
 
 ## Table of Contents
 
 - [Survey Papers](#Survey-Papers-for-Autonomous-Driving-in-Unstructured-Environments)
 - [Datasets](#Papers-for-Autonomous-Driving-Datasets-in-Unstructured-Environments)
-- [Mapping & Localization](#Papers-for-Autonomous-Driving-Mapping-&-Localization-in-Unstructured-Environments )
+- [Offline Mapping](#Papers-for-Autonomous-Driving-Offline-Mapping-in-Unstructured-Environments )
+- [Pose Estimation](#Papers-for-Autonomous-Driving-Pose-Estimation-in-Unstructured-Environments )
 - [Perception](#Papers-for-Autonomous-Driving-Perception-in-Unstructured-Environments )
 - [Path Planning](#Papers-for-Autonomous-Driving-Path-Planning-in-Unstructured-Environments )
 - [End-to-End Driving](#Papers-for-End-to-End-Autonomous-Driving-in-Unstructured-Environments) 
@@ -63,9 +64,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 |      |                                                              |                                                              |                                        |                                                             |                                                              |
 | 2024 |                            Survey                            | [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750) |             ICRA workshop              |             University of the Bundeswehr Munich             |                              -                               |
 
-## Papers for Autonomous Driving Mapping & Localization in Unstructured Environments 
-
-### (1) HD-Mapping Review 
+## Papers for Autonomous Driving Offline Mapping in Unstructured Environments 
 
 | Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
@@ -83,7 +82,9 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 |   2024   |       arXiv       |    MIT    |    [Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation](https://arxiv.org/pdf/2405.11176)   |   Mapping   |    -    |
 |   2024   |       arXiv        |    HKUST    |    [MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection](https://arxiv.org/abs/2406.02096)   |   Mapping   |    https://github.com/JokerJohn/MS-Mapping    |
 
-### (2) Localization within Priori HD-Map Review 
+## Papers for Autonomous Driving Pose Estimation in Unstructured Environments 
+
+### (1) Localization within Priori HD-Map Review 
 | Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
 |   2017   |        IJRR       |        |    [Robust LIDAR localization using multiresolution Gaussian mixture maps for autonomous driving](https://journals.sagepub.com/doi/abs/10.1177/0278364917696568)   |   Localization   |    -    |
@@ -96,7 +97,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 |   2023   |       ECMR       |        |    [Learned long-term stability scan filtering for robust robot localisation in continuously changing environments](https://ieeexplore.ieee.org/abstract/document/10256419/)   |   Localization   |     -   |
 |   2024   |       JFR       |    HKU    |    [LTA‐OM: Long‐term association LiDAR–IMU odometry and mapping](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22337)   |   Localization & Mapping   |    https://github.com/hku-mars/LTAOM    |
 
-### (3) Localization without Priori HD-Map Review 
+### (2) Localization without Priori HD-Map Review 
 * Diverse Odometry / SLAM 
 
 | Year | Journal/Conference | Authors | Title | Task | Github |
@@ -243,13 +244,13 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 
 ## Contact
 
-If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+If you find our survey useful in your research or applications, please consider giving us a star 🌟 and citing it in the following BibTeX entry.
 
 ```
-@article{xxx,
-  title={A Comprehensive Survey on Autonomous Driving in Unstructured Outdoor Environments},
-  author={xxx}, 
-  journal={arXiv preprint arXiv:xxx},
+@article{unstructuredAD,
+  title={Autonomous Driving in Unstructured Environments: How Far Have We Come?},
+  author={Chen Min, Shubin Si, Xu Wang, Hanzhang Xue, Weizhong Jiang, Yang Liu, Juan Wang, Qingtian Zhu, Qi Zhu, Lun Luo, Fanjie Kong, Jinyu Miao, Xudong Cai, Shuai An, Wei Li, Jilin Mei, Tong Sun, Heng Zhai, Qifeng Liu, Fangzhou Zhao, Liang Chen, Shuai Wang, Erke Shang, Linzhi Shang, Kunlong Zhao, Fuyang Li, Hao Fu, Lei Jin, Jian Zhao, Fangyuan Mao, Zhipeng Xiao, Chengyang Li, Bin Dai, Dawei Zhao, Liang Xiao, Yiming Nie, Yu Hu}, 
+  journal={arXiv preprint arXiv:2410.07701},
   year={2024}
 }
 ```
