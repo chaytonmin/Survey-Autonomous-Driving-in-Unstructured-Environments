@@ -3,10 +3,10 @@
 # [Autonomous Driving in Unstructured Environments: How Far Have We Come?](https://arxiv.org/abs/2410.07701) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07701) 
 
 <p align="center">
-<img src="doc/show1.png" width="720px"/>  
+<img src="doc/taxonomy.png" width="720px"/>  
 </p>
 <p align="center">
-(Unstructured Environments.)
+(Fig.1: Taxonomy of autonomous driving in unstructured environments.)
 </p>
 
 ## 📌 Introduction
@@ -23,6 +23,27 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 - [Path Planning](#Papers-for-Autonomous-Driving-Path-Planning-in-Unstructured-Environments )
 - [End-to-End Driving](#Papers-for-End-to-End-Autonomous-Driving-in-Unstructured-Environments) 
 - [Citation](#Contact)
+
+<p align="center">
+<img src="doc/nature.png" width="720px"/>  
+</p>
+<p align="center">
+(Fig.2: Inherent characteristics of unstructured environments.)
+</p>
+
+<p align="center">
+<img src="doc/ad.png" width="720px"/>  
+</p>
+<p align="center">
+(Fig.3: Typical components of the autonomous driving system.)
+</p>
+
+<p align="center">
+<img src="doc/challenge.png" width="720px"/>  
+</p>
+<p align="center">
+(Fig.4: Challenges autonomous driving systems face in unstructured environments.)
+</p>
 
 ## Survey Papers for Autonomous Driving in Unstructured Environments 
 
