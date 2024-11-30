@@ -1,17 +1,17 @@
 
 
-# [Autonomous Driving in Unstructured Environments: How Far Have We Come?](https://arxiv.org/abs/2410.07701) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07701) 
+# [Autonomous Ground Robot in Unstructured Environments: How Far Have We Come?](https://arxiv.org/abs/2410.07701) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07701) 
 
 <p align="center">
 <img src="doc/tax.png" width="720px"/>  
 </p>
 <p align="center">
-(Fig.1: Taxonomy of autonomous driving in unstructured environments.)
+(Fig.1: Taxonomy of autonomous ground robots in unstructured environments.)
 </p>
 
 ## 📌 Introduction
 
-Research on autonomous driving in unstructured outdoor environments is less advanced than in structured urban settings due to challenges like environmental diversities and scene complexity. These environments-such as rural areas and rugged terrains-pose unique obstacles that are not common in structured urban areas. Despite these difficulties, autonomous driving in unstructured outdoor environments is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 250 papers for autonomous driving in unstructured outdoor environments, covering offline mapping, pose estimation, environmental perception, path planning, end-to-end autonomous driving, datasets, and relevant challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research for autonomous driving in unstructured environments.
+Research on autonomous ground robots in unstructured outdoor environments is less advanced than in structured urban settings due to challenges like environmental diversities and scene complexity. These environments-such as rural areas and rugged terrains-pose unique obstacles that are not common in structured urban areas. Despite these difficulties, autonomous ground robots in unstructured outdoor environments is crucial for applications in agriculture, mining, and military operations. Our survey reviews over 250 papers for autonomous driving in unstructured outdoor environments, covering offline mapping, pose estimation, environmental perception, path planning, end-to-end autonomous driving, datasets, and relevant challenges. We also discuss emerging trends and future research directions. This review aims to consolidate knowledge and encourage further research for autonomous ground robots in unstructured environments.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 (Fig.4: Challenges autonomous driving systems face in unstructured environments.)
 </p>
 
-## Survey Papers for Autonomous Driving in Unstructured Environments 
+## Survey Papers for Autonomous Ground Robots in Unstructured Environments 
 
 | Year |              Journal/Conference               |                     Authors                     |                            Title                             |                Task                |
 | ---- | :--------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: | :--------------------------------: |
@@ -57,7 +57,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 | 2024 |                 Machines                 |            Jilin University, China             | [A Survey on Path Planning for Autonomous Ground Vehicles in Unstructured Environments](https://www.mdpi.com/2075-1702/12/1/31) |           Path Planning            |
 | 2024 |              ICRA workshop               |  University of the Bundeswehr Munich, Germany  | [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750) |              Datasets              |
 
-## Papers for Autonomous Driving Datasets in Unstructured Environments 
+## Papers for Autonomous Ground Robot Datasets in Unstructured Environments 
 
 ![VideoGen](./doc/data.png "Autonomous Driving Datasets in Unstructured Environments")
 
@@ -85,7 +85,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 |      |                                                              |                                                              |                                        |                                                             |                                                              |
 | 2024 |                            Survey                            | [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750) |             ICRA workshop              |             University of the Bundeswehr Munich             |                              -                               |
 
-## Papers for Autonomous Driving Offline Mapping in Unstructured Environments 
+## Papers for Autonomous Ground Robots Offline Mapping in Unstructured Environments 
 
 | Year | Journal/Conference | Authors | Title | Task | Github |
 | ---- | :-----------: | :----: | :---: | :--: | :----: |
@@ -103,7 +103,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 |   2024   |       arXiv       |    MIT    |    [Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation](https://arxiv.org/pdf/2405.11176)   |   Mapping   |    -    |
 |   2024   |       arXiv        |    HKUST    |    [MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection](https://arxiv.org/abs/2406.02096)   |   Mapping   |    https://github.com/JokerJohn/MS-Mapping    |
 
-## Papers for Autonomous Driving Pose Estimation in Unstructured Environments 
+## Papers for Autonomous Ground Robots Pose Estimation in Unstructured Environments 
 
 ### (1) Localization within Priori HD-Map Review 
 | Year | Journal/Conference | Authors | Title | Task | Github |
@@ -163,7 +163,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 |   2023   |       IROS        |        |   [Global localization in unstructured environments using semantic object maps built from various viewpoints](https://ieeexplore.ieee.org/abstract/document/10342267/)    |   Loc with Semantic Map   |    -    |
 |   2023   |        arXiv       |        |    [ALT-Pilot: Autonomous navigation with Language augmented Topometric maps](https://arxiv.org/abs/2310.02324)   |      |    -    |
 
-## Papers for Autonomous Driving Perception in Unstructured Environments 
+## Papers for Autonomous Ground Robots Perception in Unstructured Environments 
 
 | Year |                        Journal/Conference                         |                            Authors                         |                            Title                             |                       Task                       | Github |
 | ---- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------: | :----: |
@@ -216,7 +216,7 @@ Research on autonomous driving in unstructured outdoor environments is less adva
 | 2024 |                     IEEE Sensors Journal                     |                     Southeast University                     | [Multisensor Fusion Network for Unstructured Scene Segmentation With Surface Normal Incorporated](https://ieeexplore.ieee.org/abstract/document/10458907/) |             Point cloud segmentation             |   -    |
 | 2024 |                     IROS                     |                     CTU in Prague                     | [MonoForce: Self-supervised Learning of Physics-aware Model for Predicting Robot-terrain Interaction](https://arxiv.org/abs/2309.09007) |             Traversability Estimation             |   -    |
 
-## Papers for Autonomous Driving Path Planning in Unstructured Environments 
+## Papers for Autonomous Ground Robots Path Planning in Unstructured Environments 
 
 | Year | Journal/Conference                                           | Authors                                           | Title                                                        | Task List                                |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -269,7 +269,7 @@ If you find our survey useful in your research or applications, please consider 
 
 ```
 @article{unstructuredAD,
-  title={Autonomous Driving in Unstructured Environments: How Far Have We Come?},
+  title={Autonomous Ground Robots in Unstructured Environments: How Far Have We Come?},
   author={Chen Min, Shubin Si, Xu Wang, Hanzhang Xue, Weizhong Jiang, Yang Liu, Juan Wang, Qingtian Zhu, Qi Zhu, Lun Luo, Fanjie Kong, Jinyu Miao, Xudong Cai, Shuai An, Wei Li, Jilin Mei, Tong Sun, Heng Zhai, Qifeng Liu, Fangzhou Zhao, Liang Chen, Shuai Wang, Erke Shang, Linzhi Shang, Kunlong Zhao, Fuyang Li, Hao Fu, Lei Jin, Jian Zhao, Fangyuan Mao, Zhipeng Xiao, Chengyang Li, Bin Dai, Dawei Zhao, Liang Xiao, Yiming Nie, Yu Hu}, 
   journal={arXiv preprint arXiv:2410.07701},
   year={2024}
