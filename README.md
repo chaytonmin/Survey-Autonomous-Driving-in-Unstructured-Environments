@@ -6,6 +6,9 @@
 <img src="doc/tax.png" width="720px"/>  
 </p>
 <p align="center">
+<img src="doc/we.png" width="360px"/>
+</p>
+<p align="center">
 (Fig.1: Taxonomy of autonomous ground robots in unstructured environments.)
 </p>
 
