@@ -9,7 +9,7 @@
 (Fig.1: Taxonomy of autonomous ground robots in unstructured environments.)
 </p>
 <p align="center">
-<img src="doc/we.jpg" width="360px"/>
+<img src="doc/1.jpg" width="360px"/>
 </p>
 
 ## 📌 Introduction
